@@ -1,6 +1,6 @@
 Final Project CSIP
 
-We make a tetris game for this project, enjoy it!
+We make a tetris game for this project, enjoy it! Thank You! ^^
 
 Best Regards
 -Anisahnur Oktaviany (IS 2019)
